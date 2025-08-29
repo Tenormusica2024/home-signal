@@ -1,5 +1,5 @@
 {
   "action": "start_program",
   "pane": "lower",
-  "payload": "メモ帳なし・ログファイル記録テスト"
+  "payload": "社内PCから送信：この文字がClaude Codeに自動入力されます！"
 }
