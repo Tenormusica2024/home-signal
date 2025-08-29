@@ -1,5 +1,5 @@
 {
   "action": "start_program",
-  "pane": "upper",
-  "payload": "Real-time test simulation - 2025-08-29 20:12"
+  "pane": "lower",
+  "payload": "社内PC → 自宅PC Lower → Upper Claude 起動テスト！"
 }
